@@ -2,7 +2,17 @@
 
     <!-- Base application theme. -->
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#113997</item>
+        <item name="colorPrimaryDark">#000000</item>
+
+        <!--<item name="actionBarStyle">@style/MyActionBarLogo</item>-->
+        <item name="android:windowContentOverlay">@null</item>
+
+    </style>
+
+    <style name="MyActionBarLogo" parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+        <item name="logo">@mipmap/ic_launcher</item>
+        <item name="displayOptions">useLogo|showHome</item>
     </style>
 
 </resources>

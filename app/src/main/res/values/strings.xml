@@ -1,6 +1,11 @@
 <resources>
     <string name="app_name">Los Galindos FS</string>
-
-    <string name="hello_world">Hola galinderos!</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="hello_world">Hola Mundo</string>
+    <string name="button_send">Send</string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_display_message">Resultados</string>
+    <string name="action_search">Search</string>
+    <string name="estadistica">Estadistica</string>
+    <string name="equipo">Equipo</string>
 </resources>
