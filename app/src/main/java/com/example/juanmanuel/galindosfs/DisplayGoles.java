@@ -8,6 +8,7 @@ import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.widget.TextView;
 
+
 public class DisplayGoles extends AppCompatActivity{
 
     //Se encarga de presentar la pantalla correspondiente al layout “activity_goles.xml”
